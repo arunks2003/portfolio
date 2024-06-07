@@ -3,8 +3,9 @@ export const Bio = {
   roles: ["Full Stack Developer", "UI/UX Designer", "Programmer"],
   description:
     "As a passionate web developer and programmer, I thrive on turning ideas into reality through elegant and efficient code. With a keen eye for design and a knack for problem-solving, I specialize in crafting engaging web experiences that captivate audiences and deliver results.",
-  github: "#",
-  resume: "#",
+  github: "https://github.com/arunks2003",
+  resume:
+    "https://drive.google.com/file/d/1ihAp9_xmNdA1RsqugYbuArN8pQeqfDU0/view",
   linkedin: "https://www.linkedin.com/in/arun-kumar-58b963253/",
   twitter: "",
   insta: "",
@@ -211,8 +212,8 @@ export const projects = [
       "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
     tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
     category: "web app",
-    github: "https://github.com/rishavchanda/Podstream",
-    webapp: "https://podstream.netlify.app/",
+    github: "#",
+    webapp: "#",
   },
   {
     id: 1,
@@ -236,8 +237,8 @@ export const projects = [
     webapp: "https://blogster-black.vercel.app/",
   },
   {
-    id: 1,
-    title: "Blogster",
+    id: 2,
+    title: "Portfolio Website",
     date: "Oct 2022 - Present",
     description: "This is my Portfolio website.",
     image:
@@ -254,6 +255,46 @@ export const projects = [
     category: "web app",
     github: "https://github.com/arunks2003/portfolio",
     webapp: "https://portfolio-lovat-eight-44.vercel.app/",
+  },
+  {
+    id: 2,
+    title: "Water Reminder",
+    date: "May-2024",
+    description:
+      "Created a Chrome extension to give reminder to drink water after user entered interval. To be hydrated during working hours.",
+    image: "",
+    tags: [
+      "React Js",
+      "NodeMailer",
+      "Tailwind",
+      "HTML",
+      "CSS",
+      "JS",
+      "Styled components",
+    ],
+    category: "chrome-extension",
+    github: "#",
+    webapp: "#",
+  },
+  {
+    id: 4,
+    title: "Ad Blocker-Block Website ads",
+    date: "May-2024",
+    description:
+      "Created a Chrome extension to bloack unwanted ads on site white surfing through net",
+    image: "",
+    tags: [
+      "React Js",
+      "NodeMailer",
+      "Tailwind",
+      "HTML",
+      "CSS",
+      "JS",
+      "Styled components",
+    ],
+    category: "chrome-extension",
+    github: "#",
+    webapp: "#",
   },
 ];
 
