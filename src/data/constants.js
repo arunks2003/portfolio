@@ -3,7 +3,7 @@ export const Bio = {
   roles: ["Full Stack Developer", "UI/UX Designer", "Programmer"],
   description:
     "As a passionate web developer and programmer, I thrive on turning ideas into reality through elegant and efficient code. With a keen eye for design and a knack for problem-solving, I specialize in crafting engaging web experiences that captivate audiences and deliver results.",
-  github: "https://github.com/arunks2003",
+  github: "#",
   resume: "#",
   linkedin: "https://www.linkedin.com/in/arun-kumar-58b963253/",
   twitter: "",
@@ -134,10 +134,10 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/neurobit.jpeg?alt=media&token=1cacbb7b-e5ea-4efb-9b3d-f5a31b9564ad",
-    role: "Frontend Engineer Intern",
-    company: "Neurobit",
-    date: "June 2023 - Present",
+    img: "https://github.com/arunks2003/images/blob/main/Screenshot%20(529).png?raw=true",
+    role: "Front End Intern",
+    company: "OPTIPRODS",
+    date: "May 2024 - June 2024",
     desc: "Working on the frontend of the web application using ReactJS, Redux, and Material UI.",
     skills: [
       "ReactJS",
@@ -148,7 +148,7 @@ export const experiences = [
       "CSS",
       "JavaScript",
     ],
-    doc: "https://firebasestorage.googleapis.com/v0/b/buckoid-917cf.appspot.com/o/Screenshot%20from%202023-05-28%2023-20-46.png?alt=media&token=5570f995-e8f4-4f12-bb2f-73bcf4b20730",
+    doc: "https://github.com/arunks2003/images/blob/main/intern_certi.png?raw=true",
   },
   {
     id: 1,
@@ -158,7 +158,6 @@ export const experiences = [
     date: "June 2023 - Dec 2023",
     desc: "As a Web Developer and Designer. Worked with a team to maintain the official site of IITBHU, and build new sites as required",
     skills: [
-      "ReactJS",
       "NextJS",
       "Tailwind",
       "TypeScript",
@@ -167,7 +166,7 @@ export const experiences = [
       "Firebase",
       "Figma",
     ],
-    doc: "https://firebasestorage.googleapis.com/v0/b/buckoid-917cf.appspot.com/o/WhatsApp%20Image%202023-05-05%20at%2012.07.39%20AM.jpeg?alt=media&token=9f0e1648-568b-422d-bd0b-1f125f722245",
+    doc: "https://github.com/arunks2003/images/blob/main/ECELL_POR.jpg?raw=true",
   },
 ];
 
@@ -214,34 +213,48 @@ export const projects = [
     category: "web app",
     github: "https://github.com/rishavchanda/Podstream",
     webapp: "https://podstream.netlify.app/",
-    member: [
-      {
-        name: "",
-        img: "",
-        linkedin: "",
-        github: "",
-      },
-    ],
   },
   {
     id: 1,
-    title: "Vexa",
+    title: "Blogster",
     date: "Oct 2022 - Present",
     description:
-      "Designed and developed the Vexa project, a project management app that helps users and teams stay organized and on track. Implemented key features such as task tracking, team collaboration, and time tracking to improve productivity and project outcomes and also invite team/project members. The plan is to add a community of users where they can find developers and other team members and chat system implementation.",
-    image:
-      "https://user-images.githubusercontent.com/64485885/234916413-96296f13-fe4b-4cc4-b215-e72bd7c27928.png",
+      "Anonymous blogging website for the public to free their thoughts without revealing themselves.",
+    image: "https://github.com/arunks2003/images/blob/main/blog.png?raw=true",
     tags: [
       "React Js",
-      "MongoDb",
-      "Node Js",
-      "Express Js",
+      "Firebase",
       "Redux",
       "NodeMailer",
+      "Tailwind",
+      "HTML",
+      "CSS",
+      "JS",
     ],
     category: "web app",
-    github: "https://github.com/rishavchanda/Project-Management-App",
-    webapp: "https://vexa-app.netlify.app/",
+    github: "https://github.com/arunks2003/bloggify-anonymous-bllog-site-",
+    webapp: "https://blogster-black.vercel.app/",
+  },
+  {
+    id: 1,
+    title: "Blogster",
+    date: "Oct 2022 - Present",
+    description:
+      "Anonymous blogging website for the public to free their thoughts without revealing themselves.",
+    image:
+      "https://github.com/arunks2003/images/blob/main/port_img.png?raw=true",
+    tags: [
+      "React Js",
+      "NodeMailer",
+      "Tailwind",
+      "HTML",
+      "CSS",
+      "JS",
+      "Styled components",
+    ],
+    category: "web app",
+    github: "https://github.com/arunks2003/portfolio",
+    webapp: "https://portfolio-lovat-eight-44.vercel.app/",
   },
 ];
 
