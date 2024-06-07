@@ -5,7 +5,7 @@ export const Bio = {
     "As a passionate web developer and programmer, I thrive on turning ideas into reality through elegant and efficient code. With a keen eye for design and a knack for problem-solving, I specialize in crafting engaging web experiences that captivate audiences and deliver results.",
   github: "https://github.com/arunks2003",
   resume:
-    "https://drive.google.com/file/d/1ihAp9_xmNdA1RsqugYbuArN8pQeqfDU0/view",
+    "https://drive.google.com/file/d/1bKaCU4fP6q0awoYp6hDAOEh-E76zI_qZ/view",
   linkedin: "https://www.linkedin.com/in/arun-kumar-58b963253/",
   twitter: "",
   insta: "",
