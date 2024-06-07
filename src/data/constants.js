@@ -239,8 +239,7 @@ export const projects = [
     id: 1,
     title: "Blogster",
     date: "Oct 2022 - Present",
-    description:
-      "Anonymous blogging website for the public to free their thoughts without revealing themselves.",
+    description: "This is my Portfolio website.",
     image:
       "https://github.com/arunks2003/images/blob/main/port_img.png?raw=true",
     tags: [
