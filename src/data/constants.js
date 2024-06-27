@@ -217,6 +217,27 @@ export const projects = [
   },
   {
     id: 1,
+    title: "MobiQuick",
+    date: "Jan 2024 - Feb 2024",
+    description:
+      "Developed a full-stack Mobile selling website, with dual login for admin and user respectively. Admin can create product, category, add products, manage orders of users. User can search and filter products based on category and price. Added paymnet gateway for user to book their orders.",
+    image:
+      "https://github.com/arunks2003/images/blob/main/mobi_quick.png?raw=true",
+    tags: [
+      "React Js",
+      "MongoDb",
+      "Node Js",
+      "Express Js",
+      "Context API",
+      "Netlify",
+    ],
+    category: "web app",
+    github: "https://github.com/arunks2003/MobiQuick_Ecom",
+    webapp:
+      "https://667c6d6f6e383c3539749853--startling-sprite-c2a74d.netlify.app/",
+  },
+  {
+    id: 2,
     title: "Blogster",
     date: "Oct 2022 - Present",
     description:
@@ -237,7 +258,7 @@ export const projects = [
     webapp: "https://blogster-black.vercel.app/",
   },
   {
-    id: 2,
+    id: 3,
     title: "Portfolio Website",
     date: "Oct 2022 - Present",
     description: "This is my Portfolio website.",
@@ -257,7 +278,7 @@ export const projects = [
     webapp: "https://portfolio-lovat-eight-44.vercel.app/",
   },
   {
-    id: 2,
+    id: 4,
     title: "Water Reminder",
     date: "May-2024",
     description:
@@ -277,7 +298,7 @@ export const projects = [
     webapp: "#",
   },
   {
-    id: 4,
+    id: 5,
     title: "Ad Blocker-Block Website ads",
     date: "May-2024",
     description:
