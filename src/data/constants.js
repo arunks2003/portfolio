@@ -137,11 +137,31 @@ export const experiences = [
     id: 0,
     img: "https://github.com/arunks2003/images/blob/main/Screenshot%20(529).png?raw=true",
     role: "Front End Intern",
-    company: "OPTIPRODS",
+    company: "OPTIPRODS Solution Private Ltd.",
     date: "May 2024 - June 2024",
     desc: "Working on the frontend of the web application using ReactJS, Redux, and Material UI.",
     skills: [
       "ReactJS",
+      "Redux",
+      "NodeJs",
+      "Material UI",
+      "HTML",
+      "CSS",
+      "JavaScript",
+    ],
+    doc: "https://github.com/arunks2003/images/blob/main/intern_certi_img.png?raw=true",
+  },
+  {
+    id: 0,
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKgY5xC2kbgmkuVxyw7_aZEO0oIa2kZ6hXsQ&s",
+    role: "MERN Developer",
+    company: "Web Stack Academy",
+    date: "Jul 2024 - Aug 2024",
+    desc: "Contributed to the implementation of key features, including user authentication, payment gateway integration,and state management of users, Optimized performance and reduced processing time.",
+    skills: [
+      "ReactJS",
+      "Express",
+      "MongoDB",
       "Redux",
       "NodeJs",
       "Material UI",
@@ -203,19 +223,6 @@ export const education = [
 
 export const projects = [
   {
-    id: 0,
-    title: "Podstream",
-    date: "Apr 2023 - May 2023",
-    description:
-      "Developed a full-stack web application that allows users to search for, play, and pause their favorite podcasts on demand and create podcasts. Implemented user authentication using Google Auth and Jwt Auth, made responsive user interface with React JS that provides users with a seamless experience across all devices. Practiced agile methodologies to optimize team efficiency and communication.",
-    image:
-      "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
-    tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
-    category: "web app",
-    github: "#",
-    webapp: "#",
-  },
-  {
     id: 1,
     title: "MobiQuick",
     date: "Jan 2024 - Feb 2024",
@@ -238,15 +245,15 @@ export const projects = [
   },
   {
     id: 2,
-    title: "Blogster",
+    title: "PenSphere",
     date: "Oct 2022 - Present",
-    description:
-      "Anonymous blogging website for the public to free their thoughts without revealing themselves.",
-    image: "https://github.com/arunks2003/images/blob/main/blog.png?raw=true",
+    description: "",
+    image:
+      "https://github.com/arunks2003/images/blob/main/penshpere_img/homepage.png?raw=true",
     tags: [
       "React Js",
       "Firebase",
-      "Redux",
+      "Context API",
       "NodeMailer",
       "Tailwind",
       "HTML",
@@ -254,7 +261,7 @@ export const projects = [
       "JS",
     ],
     category: "web app",
-    github: "https://github.com/arunks2003/bloggify-anonymous-bllog-site-",
+    github: "https://github.com/arunks2003/Pensphere",
     webapp: "https://blogster-black.vercel.app/",
   },
   {
@@ -279,26 +286,40 @@ export const projects = [
   },
   {
     id: 4,
-    title: "Water Reminder",
+    title: "EEZY-Resume Builder",
     date: "May-2024",
-    description:
-      "Created a Chrome extension to give reminder to drink water after user entered interval. To be hydrated during working hours.",
-    image: "",
+    description: "",
+    image:
+      "https://github.com/arunks2003/images/blob/main/eezy_home.png?raw=true",
     tags: [
       "React Js",
-      "NodeMailer",
       "Tailwind",
+      "Strapi",
       "HTML",
       "CSS",
       "JS",
       "Styled components",
+      "Clerk",
     ],
     category: "chrome-extension",
-    github: "#",
+    github: "https://github.com/arunks2003/EEZY_Resume_Builder_Frontend",
     webapp: "#",
   },
   {
     id: 5,
+    title: "Realtime Code Editor",
+    date: "May-2024",
+    description:
+      "Created a Chrome extension to give reminder to drink water after user entered interval. To be hydrated during working hours.",
+    image:
+      "https://github.com/arunks2003/images/blob/main/code_editor.png?raw=true",
+    tags: ["React Js", "Tailwind", "HTML", "CSS", "JS", "Web Sockets"],
+    category: "chrome-extension",
+    github: "https://github.com/arunks2003/realtime-code-editor",
+    webapp: "#",
+  },
+  {
+    id: 6,
     title: "Ad Blocker-Block Website ads",
     date: "May-2024",
     description:
